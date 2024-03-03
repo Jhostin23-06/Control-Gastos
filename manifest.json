@@ -1,0 +1,31 @@
+{
+    "name": "Control de Gastos",
+    "short_name": "Control de Gastos",
+    "start_url": ".",
+    "id": "/",
+    "theme_color": "#004A77",
+    "display": "standalone",
+    "display_override": ["fullscreen", "minimal-ui"],
+    "background_color": "#004A77",
+    "description": "Una app de control de gastos.",
+    "icons": [
+        {
+            "src": "/assets/icono-gastos-N8pu37tx.png",
+            "sizes": "48x48",
+            "type": "image/png",
+            "purpose": "any"
+        },
+        {
+            "src": "/assets/icono-gastos-72x72-I9_hgO2b.png",
+            "sizes": "72x72",
+            "type": "image/png",
+            "purpose": "any"
+        },
+        {
+            "src": "/assets/icono-gastos-96x96.png",
+            "sizes": "96x96",
+            "type": "image/png",
+            "purpose": "any"
+        }
+    ]
+}
